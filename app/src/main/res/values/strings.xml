@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="hello">Hello!</string>
+    <string name="press_me">Press Me!</string>
+    <string name="the">THE</string>
+    <string name="goodbye">Goodbye!</string>
+</resources>
